@@ -1,0 +1,10 @@
+myenv/
+
+__pycache__/
+*.pyc
+
+data/
+*.h5
+
+htmlcov/
+.coverage
