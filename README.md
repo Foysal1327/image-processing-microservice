@@ -1,6 +1,15 @@
-📖 Image Processing API - README
-A microservice for high-dimensional image processing (5D TIFF images) built with Flask, Dask, and SQLAlchemy.
-It supports PCA, segmentation, chunked processing, and REST API access.
+📸 Image Processing Microservice
+
+A microservice for **high-dimensional image processing** (5D TIFF images) using **Flask, Dask, and SQLAlchemy**.  
+It supports **PCA, segmentation (K-Means, Otsu), chunked processing, and REST API access**.
+
+---
+
+## **📦 Installation & Setup**
+###  Clone the Repository**
+
+git clone https://github.com/Foysal1327/image-processing-microservice.git
+cd image-processing-microservice
 
 Create a Virtual Environment
 
